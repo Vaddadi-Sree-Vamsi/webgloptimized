@@ -24,6 +24,7 @@
   <assembly fullname="SpherumRunner, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="ButtonToggle" preserve="all" />
     <type fullname="EnsureSoundManagerEnabled" preserve="all" />
+    <type fullname="FPSManager" preserve="all" />
     <type fullname="MusicToggleNoOverlap" preserve="all" />
     <type fullname="PauseGame" preserve="all" />
     <type fullname="ResumeGame" preserve="all" />
